@@ -33,19 +33,6 @@
       "latest": "1.0.3",
       "versions": [
         {
-          "version": "1.0.1",
-          "status": "active",
-          "released": 1792493705,
-          "notes": "實測 1.0.1（可刪）",
-          "requires": "5.8",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "4c740901c85c6588a3294ff7490dcdb5112170ea49be321adc8c6957308355ed",
-          "size": 370,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-test-plugin-v1.0.1/zz-test-plugin-1.0.1.zip",
-          "tag": "zz-test-plugin-v1.0.1"
-        },
-        {
           "version": "1.0.2",
           "status": "active",
           "released": 1792493714,
@@ -57,19 +44,6 @@
           "size": 370,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-test-plugin-v1.0.2/zz-test-plugin-1.0.2.zip",
           "tag": "zz-test-plugin-v1.0.2"
-        },
-        {
-          "version": "0.9.0",
-          "status": "active",
-          "released": 1792493754,
-          "notes": "實測 0.9.0（可刪）",
-          "requires": "5.8",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "505290848f8405f3a10ace43bd7ceec1e7746317f7521f789fff0710a0d18118",
-          "size": 370,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-test-plugin-v0.9.0/zz-test-plugin-0.9.0.zip",
-          "tag": "zz-test-plugin-v0.9.0"
         },
         {
           "version": "1.0.3",
@@ -87,5 +61,5 @@
       ]
     }
   ],
-  "generated": "2026-10-20T10:56:03Z"
+  "generated": "2026-10-20T10:56:06Z"
 }
