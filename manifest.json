@@ -23,7 +23,30 @@
           "tag": "pvp-entertainment-network-v0.4.0"
         }
       ]
+    },
+    {
+      "slug": "zz-test-plugin",
+      "name": "ZZ 測試外掛（可刪）",
+      "type": "plugin",
+      "description": "更新中心清舊版實測用，測完即刪。",
+      "listed": true,
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "status": "active",
+          "released": 1792493696,
+          "notes": "實測 1.0.0（可刪）",
+          "requires": "5.8",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "f2944c285e8fb601e95307eaddc7bf2ad28dd037e84fd949c309a5a01c1fe794",
+          "size": 370,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-test-plugin-v1.0.0/zz-test-plugin-1.0.0.zip",
+          "tag": "zz-test-plugin-v1.0.0"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-20T09:55:07Z"
+  "generated": "2026-10-20T10:54:56Z"
 }
