@@ -30,7 +30,7 @@
       "type": "plugin",
       "description": "更新中心清舊版實測用，測完即刪。",
       "listed": false,
-      "latest": "1.0.3",
+      "latest": "1.0.2",
       "versions": [
         {
           "version": "1.0.2",
@@ -47,7 +47,7 @@
         },
         {
           "version": "1.0.3",
-          "status": "active",
+          "status": "withdrawn",
           "released": 1792493763,
           "notes": "實測 1.0.3（可刪）",
           "requires": "5.8",
@@ -61,5 +61,5 @@
       ]
     }
   ],
-  "generated": "2026-10-20T10:57:26Z"
+  "generated": "2026-10-20T10:57:29Z"
 }
