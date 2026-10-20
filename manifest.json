@@ -30,7 +30,7 @@
       "type": "plugin",
       "description": "更新中心清舊版實測用，測完即刪。",
       "listed": true,
-      "latest": "1.0.2",
+      "latest": "1.0.3",
       "versions": [
         {
           "version": "1.0.1",
@@ -70,9 +70,22 @@
           "size": 370,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-test-plugin-v0.9.0/zz-test-plugin-0.9.0.zip",
           "tag": "zz-test-plugin-v0.9.0"
+        },
+        {
+          "version": "1.0.3",
+          "status": "active",
+          "released": 1792493763,
+          "notes": "實測 1.0.3（可刪）",
+          "requires": "5.8",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "f18fd707a10d416d2edf03c610ab404b637fc02a457d308d928cb20898452180",
+          "size": 370,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-test-plugin-v1.0.3/zz-test-plugin-1.0.3.zip",
+          "tag": "zz-test-plugin-v1.0.3"
         }
       ]
     }
   ],
-  "generated": "2026-10-20T10:55:54Z"
+  "generated": "2026-10-20T10:56:03Z"
 }
