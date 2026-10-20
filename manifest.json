@@ -57,9 +57,22 @@
           "size": 370,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-test-plugin-v1.0.2/zz-test-plugin-1.0.2.zip",
           "tag": "zz-test-plugin-v1.0.2"
+        },
+        {
+          "version": "0.9.0",
+          "status": "active",
+          "released": 1792493754,
+          "notes": "實測 0.9.0（可刪）",
+          "requires": "5.8",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "505290848f8405f3a10ace43bd7ceec1e7746317f7521f789fff0710a0d18118",
+          "size": 370,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-test-plugin-v0.9.0/zz-test-plugin-0.9.0.zip",
+          "tag": "zz-test-plugin-v0.9.0"
         }
       ]
     }
   ],
-  "generated": "2026-10-20T10:55:16Z"
+  "generated": "2026-10-20T10:55:54Z"
 }
