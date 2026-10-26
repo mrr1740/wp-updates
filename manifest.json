@@ -23,7 +23,30 @@
           "tag": "pvp-entertainment-network-v0.4.0"
         }
       ]
+    },
+    {
+      "slug": "關鍵字研究工具",
+      "name": "關鍵字研究工具",
+      "type": "plugin",
+      "description": "從免費或付費來源整理長尾詞與相關詞，對應新舊文章，預覽後一鍵補充內文與標籤，並可複製企劃到AI文章發佈工具。（原「關鍵字拓展與文章優化工具」）",
+      "listed": true,
+      "latest": "1.4.7",
+      "versions": [
+        {
+          "version": "1.4.7",
+          "status": "active",
+          "released": 1793023708,
+          "notes": "",
+          "requires": "6.2",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "d5a42584db4f8d0db06890e7b0bd6482977a626c89c81aad49f8a9ecf2eca4f3",
+          "size": 114450,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/%E9%97%9C%E9%8D%B5%E5%AD%97%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7-v1.4.7/-1.4.7.zip",
+          "tag": "關鍵字研究工具-v1.4.7"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-26T12:54:56Z"
+  "generated": "2026-10-26T14:08:28Z"
 }
