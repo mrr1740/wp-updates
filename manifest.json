@@ -46,7 +46,30 @@
           "tag": "關鍵字研究工具-v1.4.7"
         }
       ]
+    },
+    {
+      "slug": "site-asset-toolkit",
+      "name": "歷史資產工作台",
+      "type": "plugin",
+      "description": "歷史網址發現、資產修復、相關文章、分類標籤、入口頁與服務連線。",
+      "listed": true,
+      "latest": "0.5.2",
+      "versions": [
+        {
+          "version": "0.5.2",
+          "status": "active",
+          "released": 1793023714,
+          "notes": "",
+          "requires": "6.4",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "db62ffe2d76551150a8a70eef12d842fbf0fe938c65263f2bb3f9778d9b3f7e7",
+          "size": 209773,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/site-asset-toolkit-v0.5.2/site-asset-toolkit-0.5.2.zip",
+          "tag": "site-asset-toolkit-v0.5.2"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-26T14:08:28Z"
+  "generated": "2026-10-26T14:08:34Z"
 }
