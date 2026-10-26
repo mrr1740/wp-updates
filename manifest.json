@@ -23,30 +23,7 @@
           "tag": "pvp-entertainment-network-v0.4.0"
         }
       ]
-    },
-    {
-      "slug": "zz-batch-b",
-      "name": "ZZ 批量測試 B（可刪）",
-      "type": "plugin",
-      "description": "批量發佈實測用，測完即刪。",
-      "listed": false,
-      "latest": "",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "status": "withdrawn",
-          "released": 1793019192,
-          "notes": "一次性測試（批量發佈實測，會刪除）",
-          "requires": "5.8",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "c8d848e8fbe44e6ea07668077f2785c8be9be65fcd38b03a2746593871360f61",
-          "size": 341,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-batch-b-v1.0.0/zz-batch-b-1.0.0.zip",
-          "tag": "zz-batch-b-v1.0.0"
-        }
-      ]
     }
   ],
-  "generated": "2026-10-26T12:54:52Z"
+  "generated": "2026-10-26T12:54:56Z"
 }
