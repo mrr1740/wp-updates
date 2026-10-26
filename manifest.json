@@ -207,7 +207,30 @@
           "tag": "category-brand-sorter-v2.3.2"
         }
       ]
+    },
+    {
+      "slug": "article-cta",
+      "name": "文章 CTA 工具",
+      "type": "plugin",
+      "description": "在文章內容中自動插入 CTA（行動呼籲）區塊：可設定每篇上限、插入方式、外觀，支援匯入 Content Hub 舊 CTA 資料。",
+      "listed": true,
+      "latest": "1.0.3",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "status": "active",
+          "released": 1793023754,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "18092541ed2422f6952e3e9a39eeb919684f258c664bef69d26f27327931284c",
+          "size": 42762,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/article-cta-v1.0.3/article-cta-1.0.3.zip",
+          "tag": "article-cta-v1.0.3"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-26T14:09:08Z"
+  "generated": "2026-10-26T14:09:14Z"
 }
