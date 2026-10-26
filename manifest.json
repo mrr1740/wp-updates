@@ -115,7 +115,30 @@
           "tag": "tah-team-daily-v2.17.1"
         }
       ]
+    },
+    {
+      "slug": "block-layout-editor",
+      "name": "區塊版面編輯器 (Block Layout Editor)",
+      "type": "plugin",
+      "description": "讓其他外掛登記自己的文章區塊，再由使用者用視覺化方式調整顯示、排序、欄位與排列。",
+      "listed": true,
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "status": "active",
+          "released": 1793023732,
+          "notes": "",
+          "requires": "5.8",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "9059c69262eb09cd204f4b2517e9a022affd1d2a40485c7c76f7049543b1995d",
+          "size": 30897,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/block-layout-editor-v1.0.0/block-layout-editor-1.0.0.zip",
+          "tag": "block-layout-editor-v1.0.0"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-26T14:08:47Z"
+  "generated": "2026-10-26T14:08:52Z"
 }
