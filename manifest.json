@@ -92,7 +92,30 @@
           "tag": "sports-report-api-v2.0.5"
         }
       ]
+    },
+    {
+      "slug": "tah-team-daily",
+      "name": "球隊情報中心",
+      "type": "plugin",
+      "description": "MLB 30、NBA 30、CPBL 6 隊的球隊、球員、教練與裁判資料中心。每日／每週／每月只更新資料並建立待發布修訂，經差異預覽後人工發布；支援既有文章掃描與批次補件；每次資料更新都有執行報告，可補充 TheSportsDB／BALLDONTLIE 等來源。",
+      "listed": true,
+      "latest": "2.17.1",
+      "versions": [
+        {
+          "version": "2.17.1",
+          "status": "active",
+          "released": 1793023727,
+          "notes": "",
+          "requires": "6.2",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "78881419ad252d93985f1d9f9f26aff1fdb57f8027254ad452d0192a0a648975",
+          "size": 806849,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/tah-team-daily-v2.17.1/tah-team-daily-2.17.1.zip",
+          "tag": "tah-team-daily-v2.17.1"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-26T14:08:42Z"
+  "generated": "2026-10-26T14:08:47Z"
 }
