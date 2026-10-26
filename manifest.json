@@ -230,7 +230,30 @@
           "tag": "article-cta-v1.0.3"
         }
       ]
+    },
+    {
+      "slug": "ai-content-publisher",
+      "name": "AI文章發佈工具",
+      "type": "plugin",
+      "description": "將內容用途、文章架構、網站分類、SEO、圖片與發布流程整合在同一套繁體中文內容營運工具。技術識別與既有串接維持相容。",
+      "listed": true,
+      "latest": "4.17.1",
+      "versions": [
+        {
+          "version": "4.17.1",
+          "status": "active",
+          "released": 1793023761,
+          "notes": "",
+          "requires": "6.2",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "9ef7cc6430b0ae35b42c9bde4a59b9b1eaf2a410ef22af799029368fef965a7c",
+          "size": 5834680,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/ai-content-publisher-v4.17.1/ai-content-publisher-4.17.1.zip",
+          "tag": "ai-content-publisher-v4.17.1"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-26T14:09:14Z"
+  "generated": "2026-10-26T14:09:21Z"
 }
