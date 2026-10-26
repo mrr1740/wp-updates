@@ -29,12 +29,12 @@
       "name": "ZZ 批量測試 A（可刪）",
       "type": "plugin",
       "description": "批量發佈實測用，測完即刪。",
-      "listed": true,
-      "latest": "1.0.0",
+      "listed": false,
+      "latest": "",
       "versions": [
         {
           "version": "1.0.0",
-          "status": "active",
+          "status": "withdrawn",
           "released": 1793019187,
           "notes": "一次性測試（批量發佈實測，會刪除）",
           "requires": "5.8",
@@ -71,5 +71,5 @@
       ]
     }
   ],
-  "generated": "2026-10-26T12:53:12Z"
+  "generated": "2026-10-26T12:54:46Z"
 }
