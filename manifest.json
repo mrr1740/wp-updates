@@ -112,7 +112,7 @@
       "type": "plugin",
       "description": "MLB 30、NBA 30、CPBL 6 隊的球隊、球員、教練與裁判資料中心。每日／每週／每月只更新資料並建立待發布修訂，經差異預覽後人工發布；支援既有文章掃描與批次補件；每次資料更新都有執行報告，可補充 TheSportsDB／BALLDONTLIE 等來源。",
       "listed": true,
-      "latest": "2.17.2",
+      "latest": "2.18.0",
       "versions": [
         {
           "version": "2.17.1",
@@ -139,6 +139,19 @@
           "size": 807820,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/tah-team-daily-v2.17.2/tah-team-daily-2.17.2.zip",
           "tag": "tah-team-daily-v2.17.2"
+        },
+        {
+          "version": "2.18.0",
+          "status": "active",
+          "released": 1793053619,
+          "notes": "",
+          "requires": "6.2",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "3653db31188db4668ea45e1223c964c042d0f214159e97477a21273ace5e9124",
+          "size": 814466,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/tah-team-daily-v2.18.0/tah-team-daily-2.18.0.zip",
+          "tag": "tah-team-daily-v2.18.0"
         }
       ]
     },
@@ -317,5 +330,5 @@
       ]
     }
   ],
-  "generated": "2026-10-26T21:04:24Z"
+  "generated": "2026-10-26T22:26:59Z"
 }
