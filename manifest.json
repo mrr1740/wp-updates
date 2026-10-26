@@ -161,7 +161,30 @@
           "tag": "tah-tw-lottery-v1.0.9"
         }
       ]
+    },
+    {
+      "slug": "content-hub",
+      "name": "Content Hub",
+      "type": "theme",
+      "description": "入口型（portal）WordPress 主題。首頁中間依序顯示前三大分類的最新文章（圖片＋標籤＋標題）與可自選分類的精選介紹區，手機／平板自動改為每 2 秒切換的輪播圖；右欄固定顯示搜尋、熱門標籤（自動偵測）、熱門文章、熱門清單；全站頁首固定，Logo 在左、右側為橫向捲動的大主題選單；全站附回到頂部按鈕。適合內容型入口網站、媒體站、多主題內容站使用。",
+      "listed": true,
+      "latest": "3.11.2",
+      "versions": [
+        {
+          "version": "3.11.2",
+          "status": "active",
+          "released": 1793023743,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.6",
+          "sha256": "1de983517e6b4ae5affa4a0c9e1672ec83f8fd28612c1bd980a95f1abc036da7",
+          "size": 374210,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/content-hub-v3.11.2/content-hub-3.11.2.zip",
+          "tag": "content-hub-v3.11.2"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-26T14:08:58Z"
+  "generated": "2026-10-26T14:09:03Z"
 }
