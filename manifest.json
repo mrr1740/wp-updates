@@ -184,7 +184,30 @@
           "tag": "content-hub-v3.11.2"
         }
       ]
+    },
+    {
+      "slug": "category-brand-sorter",
+      "name": "文章分類與入口工具",
+      "type": "plugin",
+      "description": "父分類頁只顯示子分類磚塊入口，點進磚塊的落地頁才列出文章；AI 或手動發布新文章時，依標題與內文自動歸到對應的子分類，沒把握的先放進隱藏的「待確認」，並可建議建立新的子分類。",
+      "listed": true,
+      "latest": "2.3.2",
+      "versions": [
+        {
+          "version": "2.3.2",
+          "status": "active",
+          "released": 1793023748,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "16221aec2e07d45ba67ab7d657e4e4cc4dfd700ff6d7fb8885e5d20f3c1e96aa",
+          "size": 162582,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/category-brand-sorter-v2.3.2/category-brand-sorter-2.3.2.zip",
+          "tag": "category-brand-sorter-v2.3.2"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-26T14:09:03Z"
+  "generated": "2026-10-26T14:09:08Z"
 }
