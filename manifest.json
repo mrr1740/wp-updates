@@ -25,29 +25,6 @@
       ]
     },
     {
-      "slug": "zz-batch-a",
-      "name": "ZZ 批量測試 A（可刪）",
-      "type": "plugin",
-      "description": "批量發佈實測用，測完即刪。",
-      "listed": false,
-      "latest": "",
-      "versions": [
-        {
-          "version": "1.0.0",
-          "status": "withdrawn",
-          "released": 1793019187,
-          "notes": "一次性測試（批量發佈實測，會刪除）",
-          "requires": "5.8",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "1323a64cb2120592d9102f394d84907d1ad9cbf4fede723e9358bb4b6eb9ceca",
-          "size": 341,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/zz-batch-a-v1.0.0/zz-batch-a-1.0.0.zip",
-          "tag": "zz-batch-a-v1.0.0"
-        }
-      ]
-    },
-    {
       "slug": "zz-batch-b",
       "name": "ZZ 批量測試 B（可刪）",
       "type": "plugin",
@@ -71,5 +48,5 @@
       ]
     }
   ],
-  "generated": "2026-10-26T12:54:46Z"
+  "generated": "2026-10-26T12:54:50Z"
 }
