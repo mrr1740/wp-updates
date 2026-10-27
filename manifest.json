@@ -30,7 +30,7 @@
       "type": "plugin",
       "description": "從免費或付費來源整理長尾詞與相關詞，對應新舊文章，預覽後一鍵補充內文與標籤，並可複製企劃到AI文章發佈工具。（原「關鍵字拓展與文章優化工具」）",
       "listed": true,
-      "latest": "1.5.0",
+      "latest": "1.5.1",
       "versions": [
         {
           "version": "1.4.7",
@@ -57,6 +57,19 @@
           "size": 122187,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/%E9%97%9C%E9%8D%B5%E5%AD%97%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7-v1.5.0/-1.5.0.zip",
           "tag": "關鍵字研究工具-v1.5.0"
+        },
+        {
+          "version": "1.5.1",
+          "status": "active",
+          "released": 1793065240,
+          "notes": "",
+          "requires": "6.2",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "b19aadebb6ac037a08d154f1909d861a4f10a58df520d303313091873ac6faf6",
+          "size": 122810,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/%E9%97%9C%E9%8D%B5%E5%AD%97%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7-v1.5.1/-1.5.1.zip",
+          "tag": "關鍵字研究工具-v1.5.1"
         }
       ]
     },
@@ -307,5 +320,5 @@
       ]
     }
   ],
-  "generated": "2026-10-26T23:19:02Z"
+  "generated": "2026-10-27T01:40:40Z"
 }
