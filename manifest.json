@@ -33,19 +33,6 @@
       "latest": "1.5.1",
       "versions": [
         {
-          "version": "1.4.7",
-          "status": "active",
-          "released": 1793023708,
-          "notes": "",
-          "requires": "6.2",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "d5a42584db4f8d0db06890e7b0bd6482977a626c89c81aad49f8a9ecf2eca4f3",
-          "size": 114450,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/%E9%97%9C%E9%8D%B5%E5%AD%97%E7%A0%94%E7%A9%B6%E5%B7%A5%E5%85%B7-v1.4.7/-1.4.7.zip",
-          "tag": "關鍵字研究工具-v1.4.7"
-        },
-        {
           "version": "1.5.0",
           "status": "active",
           "released": 1793055858,
@@ -320,5 +307,5 @@
       ]
     }
   ],
-  "generated": "2026-10-27T01:40:40Z"
+  "generated": "2026-10-27T01:40:42Z"
 }
