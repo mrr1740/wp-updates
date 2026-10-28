@@ -351,7 +351,30 @@
           "tag": "nexa-portal-v1.0.3"
         }
       ]
+    },
+    {
+      "slug": "nexa-play",
+      "name": "Nexa Play",
+      "type": "theme",
+      "description": "通用頻道入口主題：主視覺 Banner、頻道入口、熱門推薦、最新文章、優惠／公告，可切換固定側欄或收合選單，固定 CTA，所有文字、顏色、圖片、區塊與頁尾都可在自訂器調整。",
+      "listed": true,
+      "latest": "1.0.0",
+      "versions": [
+        {
+          "version": "1.0.0",
+          "status": "active",
+          "released": 1793178258,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "6f92031d7771684bf57fd8185585540817d2d6ee27dc5aeb16e05fc9d35866f3",
+          "size": 400809,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-play-v1.0.0/nexa-play-1.0.0.zip",
+          "tag": "nexa-play-v1.0.0"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-28T09:04:13Z"
+  "generated": "2026-10-28T09:04:18Z"
 }
