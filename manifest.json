@@ -420,7 +420,30 @@
           "tag": "nexa-grid-v1.0.4"
         }
       ]
+    },
+    {
+      "slug": "rankmath-keyword-filler",
+      "name": "Rank Math 關鍵字自動填入",
+      "type": "plugin",
+      "description": "自動判斷文章的焦點關鍵字並填入 Rank Math；沒把握的交給人工確認，並檢查標題、描述、網址、圖片替代文字是否含關鍵字。",
+      "listed": true,
+      "latest": "1.0.2",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "status": "active",
+          "released": 1793178275,
+          "notes": "",
+          "requires": "5.6",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "46116d5728e1bad97fbd4a152f48e6546709fed6af1f5258b6323f8abbfda435",
+          "size": 24609,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/rankmath-keyword-filler-v1.0.2/rankmath-keyword-filler-1.0.2.zip",
+          "tag": "rankmath-keyword-filler-v1.0.2"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-28T09:04:29Z"
+  "generated": "2026-10-28T09:04:35Z"
 }
