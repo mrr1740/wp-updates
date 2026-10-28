@@ -397,7 +397,30 @@
           "tag": "nexa-magazine-v1.0.2"
         }
       ]
+    },
+    {
+      "slug": "nexa-grid",
+      "name": "Nexa Grid",
+      "type": "theme",
+      "description": "Nexa 系列的圖牆風主題。首頁方形圖牆（標題疊圖）與分類快速切換，頁首左上角收合選單或固定側欄二選一，固定 CTA（底部橫條／浮動按鈕、手機也固定），文章頁含目錄、作者、上一篇／下一篇，提供全寬／無側欄／著陸頁範本；所有文字、顏色、區塊都能在自訂器調整。",
+      "listed": true,
+      "latest": "1.0.4",
+      "versions": [
+        {
+          "version": "1.0.4",
+          "status": "active",
+          "released": 1793178269,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "be206c0b435e9963f6fa7b1aa41b7a0e05e93d3916a313ccceef599e09f040ea",
+          "size": 170055,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-grid-v1.0.4/nexa-grid-1.0.4.zip",
+          "tag": "nexa-grid-v1.0.4"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-28T09:04:24Z"
+  "generated": "2026-10-28T09:04:29Z"
 }
