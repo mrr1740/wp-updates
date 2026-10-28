@@ -6,12 +6,12 @@
       "name": "PVP娛樂網（候選）",
       "type": "theme",
       "description": "PVP娛樂網的模組化頻道首頁候選主題；設定集中於外觀 \u003e PVP 主題控制台。",
-      "listed": true,
-      "latest": "0.4.0",
+      "listed": false,
+      "latest": "",
       "versions": [
         {
           "version": "0.4.0",
-          "status": "active",
+          "status": "withdrawn",
           "released": 1792490107,
           "notes": "",
           "requires": "6.0",
@@ -468,5 +468,5 @@
       ]
     }
   ],
-  "generated": "2026-10-28T09:04:40Z"
+  "generated": "2026-10-28T09:07:09Z"
 }
