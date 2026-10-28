@@ -2,29 +2,6 @@
   "schema": 1,
   "products": [
     {
-      "slug": "pvp-entertainment-network",
-      "name": "PVP娛樂網（候選）",
-      "type": "theme",
-      "description": "PVP娛樂網的模組化頻道首頁候選主題；設定集中於外觀 \u003e PVP 主題控制台。",
-      "listed": false,
-      "latest": "",
-      "versions": [
-        {
-          "version": "0.4.0",
-          "status": "withdrawn",
-          "released": 1792490107,
-          "notes": "",
-          "requires": "6.0",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "1c0f6a763e10ab0e52a41dccaa641a233e43f7bfb25ca8a0ce8848ef7d928c60",
-          "size": 28111,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/pvp-entertainment-network-v0.4.0/pvp-entertainment-network-0.4.0.zip",
-          "tag": "pvp-entertainment-network-v0.4.0"
-        }
-      ]
-    },
-    {
       "slug": "關鍵字研究工具",
       "name": "關鍵字研究工具",
       "type": "plugin",
@@ -468,5 +445,5 @@
       ]
     }
   ],
-  "generated": "2026-10-28T09:07:09Z"
+  "generated": "2026-10-28T09:07:14Z"
 }
