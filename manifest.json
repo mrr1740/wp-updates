@@ -328,7 +328,30 @@
           "tag": "nexa-sports-v1.0.2"
         }
       ]
+    },
+    {
+      "slug": "nexa-portal",
+      "name": "Nexa Portal",
+      "type": "theme",
+      "description": "Nexa 系列的入口網站風綜合型主題。今日焦點條、大頭條輪播、可自訂的多個分類輪播區、首頁／清單頁／文章頁可分開設定的左右側欄，以及五個位置的 CTA（可設定跟隨頁面捲動）；選用外掛時自動串接比分與開獎，不依賴任何外掛。",
+      "listed": true,
+      "latest": "1.0.3",
+      "versions": [
+        {
+          "version": "1.0.3",
+          "status": "active",
+          "released": 1793178253,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "8abf70db19b8dfec8ec473bf9633db988c8b34aca40dce9f73deeb7cbff43874",
+          "size": 190474,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-portal-v1.0.3/nexa-portal-1.0.3.zip",
+          "tag": "nexa-portal-v1.0.3"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-28T09:04:07Z"
+  "generated": "2026-10-28T09:04:13Z"
 }
