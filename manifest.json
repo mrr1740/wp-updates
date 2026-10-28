@@ -443,7 +443,30 @@
           "tag": "rankmath-keyword-filler-v1.0.2"
         }
       ]
+    },
+    {
+      "slug": "keyword-inserter",
+      "name": "關鍵字插入工具",
+      "type": "plugin",
+      "description": "依分類／標籤把關鍵字與短文範本輪替插入多篇文章，控管密度與連結上限，寫入前自動備份，可單篇或整批還原。",
+      "listed": true,
+      "latest": "1.0.1",
+      "versions": [
+        {
+          "version": "1.0.1",
+          "status": "active",
+          "released": 1793178280,
+          "notes": "",
+          "requires": "5.6",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "0f521021d8ea99ff61476e67db090443e7df70456b1dd4ec9d26e81c4cf82d5d",
+          "size": 23356,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/keyword-inserter-v1.0.1/keyword-inserter-1.0.1.zip",
+          "tag": "keyword-inserter-v1.0.1"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-28T09:04:35Z"
+  "generated": "2026-10-28T09:04:40Z"
 }
