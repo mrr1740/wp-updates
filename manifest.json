@@ -374,7 +374,30 @@
           "tag": "nexa-play-v1.0.0"
         }
       ]
+    },
+    {
+      "slug": "nexa-magazine",
+      "name": "Nexa Magazine",
+      "type": "theme",
+      "description": "Nexa 系列的雜誌風主題。首頁由上而下是滿版大頭條、兩張並排大圖卡片、一區一區往下排的分類區（區標題加一排三張圖文卡，可輪播）；側邊可選固定側欄或收合選單；固定 CTA、文章目錄、頁面範本都在自訂器設定；所有文字、顏色、圖片、區塊與順序都能在自訂器調整，不寫死任何分類，也不依賴任何外掛。",
+      "listed": true,
+      "latest": "1.0.2",
+      "versions": [
+        {
+          "version": "1.0.2",
+          "status": "active",
+          "released": 1793178264,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "24ace26be86a7c9124d3286320cffd8fb9071b272c3509c803c3afbf75da0e19",
+          "size": 170220,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-magazine-v1.0.2/nexa-magazine-1.0.2.zip",
+          "tag": "nexa-magazine-v1.0.2"
+        }
+      ]
     }
   ],
-  "generated": "2026-10-28T09:04:18Z"
+  "generated": "2026-10-28T09:04:24Z"
 }
