@@ -118,19 +118,6 @@
       "latest": "2.19.4",
       "versions": [
         {
-          "version": "2.19.2",
-          "status": "active",
-          "released": 1793286390,
-          "notes": "",
-          "requires": "6.2",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "57f47eaa4ba02280c73b9018546bc792f69ec3840be7e8394b26d5a3b7350555",
-          "size": 880358,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/tah-team-daily-v2.19.2/tah-team-daily-2.19.2.zip",
-          "tag": "tah-team-daily-v2.19.2"
-        },
-        {
           "version": "2.19.3",
           "status": "active",
           "released": 1793357964,
@@ -484,5 +471,5 @@
       ]
     }
   ],
-  "generated": "2026-11-04T06:44:31Z"
+  "generated": "2026-11-04T06:44:34Z"
 }
