@@ -46,19 +46,6 @@
       "latest": "0.6.1",
       "versions": [
         {
-          "version": "0.5.9",
-          "status": "active",
-          "released": 1793797635,
-          "notes": "",
-          "requires": "6.4",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "de33363d63b625013a24b0707b5957f8d4d49022a4f133a9efcfadeb790b25dd",
-          "size": 229733,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/site-asset-toolkit-v0.5.9/site-asset-toolkit-0.5.9.zip",
-          "tag": "site-asset-toolkit-v0.5.9"
-        },
-        {
           "version": "0.6.0",
           "status": "active",
           "released": 1793867440,
@@ -523,5 +510,5 @@
       ]
     }
   ],
-  "generated": "2026-11-06T10:28:06Z"
+  "generated": "2026-11-06T10:28:08Z"
 }
