@@ -508,7 +508,30 @@
           "tag": "keyword-inserter-v1.0.1"
         }
       ]
+    },
+    {
+      "slug": "update-connector",
+      "name": "更新連接",
+      "type": "plugin",
+      "description": "填入更新來源網址（GitHub manifest 或 WordPress 更新中心），就能為所有由更新中心發佈且已安裝的外掛／主題顯示更新並一鍵更新，也能從清單一鍵安裝新外掛／主題。",
+      "listed": true,
+      "latest": "1.2.1",
+      "versions": [
+        {
+          "version": "1.2.1",
+          "status": "active",
+          "released": 1794111805,
+          "notes": "",
+          "requires": "5.8",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "862efdd982fbea948176483f4caf54f0ddf102562a741abb025d47a401d22af0",
+          "size": 42395,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/update-connector-v1.2.1/update-connector-1.2.1.zip",
+          "tag": "update-connector-v1.2.1"
+        }
+      ]
     }
   ],
-  "generated": "2026-11-06T10:28:20Z"
+  "generated": "2026-11-08T04:23:25Z"
 }
