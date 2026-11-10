@@ -328,7 +328,7 @@
       "type": "theme",
       "description": "Nexa 系列的賽事資訊主題。簡潔的入口型版面：今日焦點條、頭條、分類輪播、球隊入口與文章頁側欄；選用外掛時自動串接比分、開獎與球隊資料，不依賴任何外掛。",
       "listed": true,
-      "latest": "1.1.1",
+      "latest": "1.1.3",
       "versions": [
         {
           "version": "1.1.0",
@@ -355,6 +355,19 @@
           "size": 326776,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-sports-v1.1.1/nexa-sports-1.1.1.zip",
           "tag": "nexa-sports-v1.1.1"
+        },
+        {
+          "version": "1.1.3",
+          "status": "active",
+          "released": 1794319321,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "7b858d631382afa7bf9593098c28614bf9dd9c043e98161b9ba7526dbc6162ad",
+          "size": 337168,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-sports-v1.1.3/nexa-sports-1.1.3.zip",
+          "tag": "nexa-sports-v1.1.3"
         }
       ]
     },
@@ -533,5 +546,5 @@
       ]
     }
   ],
-  "generated": "2026-11-10T10:28:50Z"
+  "generated": "2026-11-10T14:02:01Z"
 }
