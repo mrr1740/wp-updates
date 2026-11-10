@@ -331,19 +331,6 @@
       "latest": "1.1.3",
       "versions": [
         {
-          "version": "1.1.0",
-          "status": "active",
-          "released": 1793867317,
-          "notes": "",
-          "requires": "6.0",
-          "requires_php": "7.4",
-          "tested": "6.8",
-          "sha256": "c90ab49f14c41e60cb11171d7b43e0f04ba33b24ce4b360c2e6bcaddb839c89f",
-          "size": 326466,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-sports-v1.1.0/nexa-sports-1.1.0.zip",
-          "tag": "nexa-sports-v1.1.0"
-        },
-        {
           "version": "1.1.1",
           "status": "active",
           "released": 1793960861,
@@ -546,5 +533,5 @@
       ]
     }
   ],
-  "generated": "2026-11-10T14:02:01Z"
+  "generated": "2026-11-10T14:02:03Z"
 }
