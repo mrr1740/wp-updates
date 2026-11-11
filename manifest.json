@@ -426,7 +426,7 @@
       "type": "theme",
       "description": "通用頻道入口主題：主視覺 Banner、頻道入口、熱門推薦、最新文章、優惠／公告，可切換固定側欄或收合選單，固定 CTA，所有文字、顏色、圖片、區塊與頁尾都可在自訂器調整。",
       "listed": true,
-      "latest": "1.2.1",
+      "latest": "1.2.3",
       "versions": [
         {
           "version": "1.1.0",
@@ -453,6 +453,19 @@
           "size": 417150,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-play-v1.2.1/nexa-play-1.2.1.zip",
           "tag": "nexa-play-v1.2.1"
+        },
+        {
+          "version": "1.2.3",
+          "status": "active",
+          "released": 1794394702,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "40a0a0eb0abc3e531cf467fc4cc9efce12771940ea744a63f6612b3eb6fb71b9",
+          "size": 427729,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-play-v1.2.3/nexa-play-1.2.3.zip",
+          "tag": "nexa-play-v1.2.3"
         }
       ]
     },
@@ -595,5 +608,5 @@
       ]
     }
   ],
-  "generated": "2026-11-11T10:58:17Z"
+  "generated": "2026-11-11T10:58:22Z"
 }
