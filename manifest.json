@@ -403,7 +403,7 @@
       "type": "theme",
       "description": "Nexa 系列的入口網站風綜合型主題。今日焦點條、大頭條輪播、可自訂的多個分類輪播區、首頁／清單頁／文章頁可分開設定的左右側欄，以及五個位置的 CTA（可設定跟隨頁面捲動）；選用外掛時自動串接比分與開獎，不依賴任何外掛。",
       "listed": true,
-      "latest": "1.0.3",
+      "latest": "1.0.5",
       "versions": [
         {
           "version": "1.0.3",
@@ -417,6 +417,19 @@
           "size": 190474,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-portal-v1.0.3/nexa-portal-1.0.3.zip",
           "tag": "nexa-portal-v1.0.3"
+        },
+        {
+          "version": "1.0.5",
+          "status": "active",
+          "released": 1794394962,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "1e2bd97ffaf676a258532ac479c9482cfa1bded223a434af0476ec1c27fc8fb7",
+          "size": 201182,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-portal-v1.0.5/nexa-portal-1.0.5.zip",
+          "tag": "nexa-portal-v1.0.5"
         }
       ]
     },
@@ -634,5 +647,5 @@
       ]
     }
   ],
-  "generated": "2026-11-11T10:58:33Z"
+  "generated": "2026-11-11T11:02:42Z"
 }
