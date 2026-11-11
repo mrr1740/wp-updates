@@ -321,32 +321,6 @@
       "latest": "4.20.0",
       "versions": [
         {
-          "version": "4.18.0",
-          "status": "active",
-          "released": 1793775036,
-          "notes": "",
-          "requires": "6.2",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "9752e3bd28a5a7cc04fa80c00377bea9929438e2ccffe81d6b776a3e4b160b09",
-          "size": 5872316,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/ai-content-publisher-v4.18.0/ai-content-publisher-4.18.0.zip",
-          "tag": "ai-content-publisher-v4.18.0"
-        },
-        {
-          "version": "4.18.2",
-          "status": "active",
-          "released": 1793867432,
-          "notes": "",
-          "requires": "6.2",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "95fa7f4a506ea4a442ee52c09f7dd66e29ddc0ec0087e6604de764ce60c5fbe9",
-          "size": 5882490,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/ai-content-publisher-v4.18.2/ai-content-publisher-4.18.2.zip",
-          "tag": "ai-content-publisher-v4.18.2"
-        },
-        {
           "version": "4.19.2",
           "status": "active",
           "released": 1794380017,
@@ -608,5 +582,5 @@
       ]
     }
   ],
-  "generated": "2026-11-11T10:58:06Z"
+  "generated": "2026-11-11T10:58:08Z"
 }
