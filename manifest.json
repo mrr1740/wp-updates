@@ -544,7 +544,30 @@
           "tag": "update-connector-v1.2.1"
         }
       ]
+    },
+    {
+      "slug": "tah-seo-opportunities",
+      "name": "關鍵字研究工具",
+      "type": "plugin",
+      "description": "從免費或付費來源整理長尾詞與相關詞，對應新舊文章，預覽後一鍵補充內文與標籤，並可複製企劃到AI文章發佈工具。（原「關鍵字拓展與文章優化工具」）",
+      "listed": true,
+      "latest": "1.5.4",
+      "versions": [
+        {
+          "version": "1.5.4",
+          "status": "active",
+          "released": 1794388278,
+          "notes": "",
+          "requires": "6.2",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "4a696e370800121bb20e9396192a275823fbe6bfd0503021c3b523cf75764aef",
+          "size": 129833,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/tah-seo-opportunities-v1.5.4/tah-seo-opportunities-1.5.4.zip",
+          "tag": "tah-seo-opportunities-v1.5.4"
+        }
+      ]
     }
   ],
-  "generated": "2026-11-11T06:53:37Z"
+  "generated": "2026-11-11T09:11:18Z"
 }
