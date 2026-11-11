@@ -475,7 +475,7 @@
       "type": "theme",
       "description": "Nexa 系列的雜誌風主題。首頁由上而下是滿版大頭條、兩張並排大圖卡片、一區一區往下排的分類區（區標題加一排三張圖文卡，可輪播）；側邊可選固定側欄或收合選單；固定 CTA、文章目錄、頁面範本都在自訂器設定；所有文字、顏色、圖片、區塊與順序都能在自訂器調整，不寫死任何分類，也不依賴任何外掛。",
       "listed": true,
-      "latest": "1.0.2",
+      "latest": "1.0.4",
       "versions": [
         {
           "version": "1.0.2",
@@ -489,6 +489,19 @@
           "size": 170220,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-magazine-v1.0.2/nexa-magazine-1.0.2.zip",
           "tag": "nexa-magazine-v1.0.2"
+        },
+        {
+          "version": "1.0.4",
+          "status": "active",
+          "released": 1794394708,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "45570fa10ee8a9548c0a847a49e8b02d1b85c1571757bb303e64235c4ec2419b",
+          "size": 180621,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-magazine-v1.0.4/nexa-magazine-1.0.4.zip",
+          "tag": "nexa-magazine-v1.0.4"
         }
       ]
     },
@@ -608,5 +621,5 @@
       ]
     }
   ],
-  "generated": "2026-11-11T10:58:22Z"
+  "generated": "2026-11-11T10:58:28Z"
 }
