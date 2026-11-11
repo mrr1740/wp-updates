@@ -246,7 +246,7 @@
       "type": "plugin",
       "description": "父分類頁只顯示子分類磚塊入口，點進磚塊的落地頁才列出文章；AI 或手動發布新文章時，依標題與內文自動歸到對應的子分類，沒把握的先放進隱藏的「待確認」，並可建議建立新的子分類。",
       "listed": true,
-      "latest": "2.3.2",
+      "latest": "2.3.3",
       "versions": [
         {
           "version": "2.3.2",
@@ -260,6 +260,19 @@
           "size": 162582,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/category-brand-sorter-v2.3.2/category-brand-sorter-2.3.2.zip",
           "tag": "category-brand-sorter-v2.3.2"
+        },
+        {
+          "version": "2.3.3",
+          "status": "active",
+          "released": 1794394674,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "864d16b8837a9297ffaea89959e4632e7f6e0f71c330b7a2b5f37fbe29b09b7a",
+          "size": 169003,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/category-brand-sorter-v2.3.3/category-brand-sorter-2.3.3.zip",
+          "tag": "category-brand-sorter-v2.3.3"
         }
       ]
     },
@@ -569,5 +582,5 @@
       ]
     }
   ],
-  "generated": "2026-11-11T09:11:18Z"
+  "generated": "2026-11-11T10:57:54Z"
 }
