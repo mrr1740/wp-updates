@@ -203,19 +203,6 @@
       "latest": "1.2.1",
       "versions": [
         {
-          "version": "1.0.9",
-          "status": "active",
-          "released": 1793023738,
-          "notes": "",
-          "requires": "5.3",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "5369ef79eb3b1860278e1fe8d36755c7f9f516b4abdf6bdf4506c6348e8cb5d3",
-          "size": 197904,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/tah-tw-lottery-v1.0.9/tah-tw-lottery-1.0.9.zip",
-          "tag": "tah-tw-lottery-v1.0.9"
-        },
-        {
           "version": "1.2.0",
           "status": "active",
           "released": 1793960880,
@@ -673,5 +660,5 @@
       ]
     }
   ],
-  "generated": "2026-11-12T16:42:15Z"
+  "generated": "2026-11-12T16:42:18Z"
 }
