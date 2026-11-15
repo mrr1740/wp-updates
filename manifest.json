@@ -79,7 +79,7 @@
       "type": "plugin",
       "description": "串接運動資料 API（RapidAPI）自動產生 NBA／MLB 賽事的賽前預告、先發名單更新與賽後戰報（三階段自動更新同一篇文章）。完全獨立運作，不依賴其他外掛；如需一般主題式 AI 發文，請另外安裝「AI 文章發布器」。不綁定特定網站，可依需要安裝在多個站點上，各自獨立設定。",
       "listed": true,
-      "latest": "2.0.16",
+      "latest": "2.0.18",
       "versions": [
         {
           "version": "2.0.14",
@@ -106,6 +106,19 @@
           "size": 14759205,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/sports-report-api-v2.0.16/sports-report-api-2.0.16.zip",
           "tag": "sports-report-api-v2.0.16"
+        },
+        {
+          "version": "2.0.18",
+          "status": "active",
+          "released": 1794724270,
+          "notes": "",
+          "requires": "",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "aaad7fd491ebc2714c4796ae76b79dc8836db450f68f7d380976b33a544bb99b",
+          "size": 14775235,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/sports-report-api-v2.0.18/sports-report-api-2.0.18.zip",
+          "tag": "sports-report-api-v2.0.18"
         }
       ]
     },
@@ -647,5 +660,5 @@
       ]
     }
   ],
-  "generated": "2026-11-13T11:32:10Z"
+  "generated": "2026-11-15T06:31:10Z"
 }
