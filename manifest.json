@@ -380,19 +380,6 @@
       "latest": "1.0.6",
       "versions": [
         {
-          "version": "1.0.3",
-          "status": "active",
-          "released": 1793178253,
-          "notes": "",
-          "requires": "6.0",
-          "requires_php": "7.4",
-          "tested": "6.8",
-          "sha256": "8abf70db19b8dfec8ec473bf9633db988c8b34aca40dce9f73deeb7cbff43874",
-          "size": 190474,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-portal-v1.0.3/nexa-portal-1.0.3.zip",
-          "tag": "nexa-portal-v1.0.3"
-        },
-        {
           "version": "1.0.5",
           "status": "active",
           "released": 1794394962,
@@ -683,5 +670,5 @@
       ]
     }
   ],
-  "generated": "2026-11-16T14:30:28Z"
+  "generated": "2026-11-16T14:30:30Z"
 }
