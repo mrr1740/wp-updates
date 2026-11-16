@@ -639,7 +639,7 @@
       "type": "plugin",
       "description": "定時抓取體育新聞等來源的標題、摘要、原文連結與圖片網址，依聯盟與球隊別名歸類，提供前台列表與給其他外掛讀取的公開介面。",
       "listed": true,
-      "latest": "0.1.1",
+      "latest": "0.1.8",
       "versions": [
         {
           "version": "0.1.1",
@@ -653,9 +653,22 @@
           "size": 41518,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/crawler-data-hub-v0.1.1/crawler-data-hub-0.1.1.zip",
           "tag": "crawler-data-hub-v0.1.1"
+        },
+        {
+          "version": "0.1.8",
+          "status": "active",
+          "released": 1794857825,
+          "notes": "",
+          "requires": "",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "14299c7481a1e31df56c6aff769e5d139389312bcb150286edc895708b1e8b94",
+          "size": 75280,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/crawler-data-hub-v0.1.8/crawler-data-hub-0.1.8.zip",
+          "tag": "crawler-data-hub-v0.1.8"
         }
       ]
     }
   ],
-  "generated": "2026-11-16T14:31:10Z"
+  "generated": "2026-11-16T19:37:05Z"
 }
