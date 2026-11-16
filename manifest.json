@@ -485,7 +485,7 @@
       "type": "theme",
       "description": "Nexa 系列的圖牆風主題。首頁方形圖牆（標題疊圖）與分類快速切換，頁首左上角收合選單或固定側欄二選一，固定 CTA（底部橫條／浮動按鈕、手機也固定），文章頁含目錄、作者、上一篇／下一篇，提供全寬／無側欄／著陸頁範本；所有文字、顏色、區塊都能在自訂器調整。",
       "listed": true,
-      "latest": "1.0.6",
+      "latest": "1.0.7",
       "versions": [
         {
           "version": "1.0.4",
@@ -512,6 +512,19 @@
           "size": 180396,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-grid-v1.0.6/nexa-grid-1.0.6.zip",
           "tag": "nexa-grid-v1.0.6"
+        },
+        {
+          "version": "1.0.7",
+          "status": "active",
+          "released": 1794839458,
+          "notes": "",
+          "requires": "6.0",
+          "requires_php": "7.4",
+          "tested": "6.8",
+          "sha256": "1510a970aa225e2a4f457b2b2a8f231a1afec499db6ce411b30b4148f86e71ed",
+          "size": 192303,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-grid-v1.0.7/nexa-grid-1.0.7.zip",
+          "tag": "nexa-grid-v1.0.7"
         }
       ]
     },
@@ -657,5 +670,5 @@
       ]
     }
   ],
-  "generated": "2026-11-16T14:30:51Z"
+  "generated": "2026-11-16T14:30:58Z"
 }
