@@ -416,32 +416,6 @@
       "latest": "1.2.4",
       "versions": [
         {
-          "version": "1.1.0",
-          "status": "active",
-          "released": 1793812803,
-          "notes": "",
-          "requires": "6.0",
-          "requires_php": "7.4",
-          "tested": "6.8",
-          "sha256": "9dac5fac97c1cc304cd1656927daeee0f327d026d3448499837c45d6a0cfdf9e",
-          "size": 402978,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-play-v1.1.0/nexa-play-1.1.0.zip",
-          "tag": "nexa-play-v1.1.0"
-        },
-        {
-          "version": "1.2.1",
-          "status": "active",
-          "released": 1793867307,
-          "notes": "",
-          "requires": "6.0",
-          "requires_php": "7.4",
-          "tested": "6.8",
-          "sha256": "701a2245dcb67839095b05485d755ef65d72d52ecd95fcc51a81f1599a561e2f",
-          "size": 417150,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-play-v1.2.1/nexa-play-1.2.1.zip",
-          "tag": "nexa-play-v1.2.1"
-        },
-        {
           "version": "1.2.3",
           "status": "active",
           "released": 1794394702,
@@ -683,5 +657,5 @@
       ]
     }
   ],
-  "generated": "2026-11-16T14:30:38Z"
+  "generated": "2026-11-16T14:30:40Z"
 }
