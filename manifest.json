@@ -593,7 +593,7 @@
       "type": "plugin",
       "description": "填入更新來源網址（GitHub manifest 或 WordPress 更新中心），就能為所有由更新中心發佈且已安裝的外掛／主題顯示更新並一鍵更新，也能從清單一鍵安裝新外掛／主題。",
       "listed": true,
-      "latest": "1.2.1",
+      "latest": "1.4.1",
       "versions": [
         {
           "version": "1.2.1",
@@ -607,6 +607,19 @@
           "size": 42395,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/update-connector-v1.2.1/update-connector-1.2.1.zip",
           "tag": "update-connector-v1.2.1"
+        },
+        {
+          "version": "1.4.1",
+          "status": "active",
+          "released": 1794829048,
+          "notes": "",
+          "requires": "5.8",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "a995449c9e2884e40a58a18b8e036b59dff572fa9b2f87dee1fb971e23f0f7ed",
+          "size": 50032,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/update-connector-v1.4.1/update-connector-1.4.1.zip",
+          "tag": "update-connector-v1.4.1"
         }
       ]
     },
@@ -657,5 +670,5 @@
       ]
     }
   ],
-  "generated": "2026-11-16T11:36:22Z"
+  "generated": "2026-11-16T11:37:28Z"
 }
