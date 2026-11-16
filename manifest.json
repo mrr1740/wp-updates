@@ -488,19 +488,6 @@
       "latest": "1.0.7",
       "versions": [
         {
-          "version": "1.0.4",
-          "status": "active",
-          "released": 1793178269,
-          "notes": "",
-          "requires": "6.0",
-          "requires_php": "7.4",
-          "tested": "6.8",
-          "sha256": "be206c0b435e9963f6fa7b1aa41b7a0e05e93d3916a313ccceef599e09f040ea",
-          "size": 170055,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-grid-v1.0.4/nexa-grid-1.0.4.zip",
-          "tag": "nexa-grid-v1.0.4"
-        },
-        {
           "version": "1.0.6",
           "status": "active",
           "released": 1794394713,
@@ -670,5 +657,5 @@
       ]
     }
   ],
-  "generated": "2026-11-16T14:30:58Z"
+  "generated": "2026-11-16T14:31:00Z"
 }
