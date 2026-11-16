@@ -632,7 +632,30 @@
           "tag": "tah-seo-opportunities-v1.5.4"
         }
       ]
+    },
+    {
+      "slug": "crawler-data-hub",
+      "name": "爬蟲資料中心",
+      "type": "plugin",
+      "description": "定時抓取體育新聞等來源的標題、摘要、原文連結與圖片網址，依聯盟與球隊別名歸類，提供前台列表與給其他外掛讀取的公開介面。",
+      "listed": true,
+      "latest": "0.1.1",
+      "versions": [
+        {
+          "version": "0.1.1",
+          "status": "active",
+          "released": 1794828982,
+          "notes": "",
+          "requires": "",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "8318a27eb36b4c5251e571fcfea85af7b00ef4d8910a928082b2ccea036cdffe",
+          "size": 41518,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/crawler-data-hub-v0.1.1/crawler-data-hub-0.1.1.zip",
+          "tag": "crawler-data-hub-v0.1.1"
+        }
+      ]
     }
   ],
-  "generated": "2026-11-16T11:22:44Z"
+  "generated": "2026-11-16T11:36:22Z"
 }
