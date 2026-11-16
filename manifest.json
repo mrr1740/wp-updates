@@ -452,19 +452,6 @@
       "latest": "1.0.5",
       "versions": [
         {
-          "version": "1.0.2",
-          "status": "active",
-          "released": 1793178264,
-          "notes": "",
-          "requires": "6.0",
-          "requires_php": "7.4",
-          "tested": "6.8",
-          "sha256": "24ace26be86a7c9124d3286320cffd8fb9071b272c3509c803c3afbf75da0e19",
-          "size": 170220,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/nexa-magazine-v1.0.2/nexa-magazine-1.0.2.zip",
-          "tag": "nexa-magazine-v1.0.2"
-        },
-        {
           "version": "1.0.4",
           "status": "active",
           "released": 1794394708,
@@ -670,5 +657,5 @@
       ]
     }
   ],
-  "generated": "2026-11-16T14:30:49Z"
+  "generated": "2026-11-16T14:30:51Z"
 }
