@@ -305,7 +305,7 @@
       "type": "plugin",
       "description": "將內容用途、文章架構、網站分類、SEO、圖片與發布流程整合在同一套繁體中文內容營運工具。技術識別與既有串接維持相容。",
       "listed": true,
-      "latest": "4.20.2",
+      "latest": "4.22.0",
       "versions": [
         {
           "version": "4.20.0",
@@ -332,6 +332,19 @@
           "size": 5937635,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/ai-content-publisher-v4.20.2/ai-content-publisher-4.20.2.zip",
           "tag": "ai-content-publisher-v4.20.2"
+        },
+        {
+          "version": "4.22.0",
+          "status": "active",
+          "released": 1794943838,
+          "notes": "",
+          "requires": "6.2",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "af7f0e253de57ee7fb358796178a22ad27034468a8f3760c24b6016697e4e2be",
+          "size": 5983594,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/ai-content-publisher-v4.22.0/ai-content-publisher-4.22.0.zip",
+          "tag": "ai-content-publisher-v4.22.0"
         }
       ]
     },
@@ -670,5 +683,5 @@
       ]
     }
   ],
-  "generated": "2026-11-16T19:37:05Z"
+  "generated": "2026-11-17T19:30:38Z"
 }
