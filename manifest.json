@@ -6,12 +6,12 @@
       "name": "關鍵字研究工具",
       "type": "plugin",
       "description": "從免費或付費來源整理長尾詞與相關詞，對應新舊文章，預覽後一鍵補充內文與標籤，並可複製企劃到AI文章發佈工具。（原「關鍵字拓展與文章優化工具」）",
-      "listed": true,
-      "latest": "1.5.1",
+      "listed": false,
+      "latest": "",
       "versions": [
         {
           "version": "1.5.0",
-          "status": "active",
+          "status": "withdrawn",
           "released": 1793055858,
           "notes": "",
           "requires": "6.2",
@@ -24,7 +24,7 @@
         },
         {
           "version": "1.5.1",
-          "status": "active",
+          "status": "withdrawn",
           "released": 1793065240,
           "notes": "",
           "requires": "6.2",
@@ -670,5 +670,5 @@
       ]
     }
   ],
-  "generated": "2026-11-17T19:30:40Z"
+  "generated": "2026-11-17T19:31:39Z"
 }
