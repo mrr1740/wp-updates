@@ -7,7 +7,7 @@
       "type": "plugin",
       "description": "歷史網址發現、資產修復、相關文章、分類標籤、入口頁與服務連線。",
       "listed": true,
-      "latest": "0.6.7",
+      "latest": "0.7.0",
       "versions": [
         {
           "version": "0.6.6",
@@ -34,6 +34,19 @@
           "size": 304521,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/site-asset-toolkit-v0.6.7/site-asset-toolkit-0.6.7.zip",
           "tag": "site-asset-toolkit-v0.6.7"
+        },
+        {
+          "version": "0.7.0",
+          "status": "active",
+          "released": 1795032155,
+          "notes": "",
+          "requires": "6.4",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "48f3878b62bcdac0e82db1b1ec72aef305b602529e3c25a0df8082d02a357476",
+          "size": 226577,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/site-asset-toolkit-v0.7.0/site-asset-toolkit-0.7.0.zip",
+          "tag": "site-asset-toolkit-v0.7.0"
         }
       ]
     },
@@ -634,5 +647,5 @@
       ]
     }
   ],
-  "generated": "2026-11-18T18:40:39Z"
+  "generated": "2026-11-18T20:02:35Z"
 }
