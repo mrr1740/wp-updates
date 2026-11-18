@@ -46,19 +46,6 @@
       "latest": "2.0.23",
       "versions": [
         {
-          "version": "2.0.21",
-          "status": "active",
-          "released": 1794747572,
-          "notes": "",
-          "requires": "",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "c603133c6c619ab2c754463c729d2960f91f946cb8a961125720a515b093fc4e",
-          "size": 14822608,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/sports-report-api-v2.0.21/sports-report-api-2.0.21.zip",
-          "tag": "sports-report-api-v2.0.21"
-        },
-        {
           "version": "2.0.22",
           "status": "active",
           "released": 1794829745,
@@ -647,5 +634,5 @@
       ]
     }
   ],
-  "generated": "2026-11-18T18:40:26Z"
+  "generated": "2026-11-18T18:40:29Z"
 }
