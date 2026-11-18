@@ -272,19 +272,6 @@
       "latest": "4.23.0",
       "versions": [
         {
-          "version": "4.20.2",
-          "status": "active",
-          "released": 1794828162,
-          "notes": "",
-          "requires": "6.2",
-          "requires_php": "7.4",
-          "tested": "",
-          "sha256": "e841b7ebb6f387842f21713db9d68ed9c3974f179777f879416019a0cf965919",
-          "size": 5937635,
-          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/ai-content-publisher-v4.20.2/ai-content-publisher-4.20.2.zip",
-          "tag": "ai-content-publisher-v4.20.2"
-        },
-        {
           "version": "4.22.0",
           "status": "active",
           "released": 1794943838,
@@ -647,5 +634,5 @@
       ]
     }
   ],
-  "generated": "2026-11-18T18:40:37Z"
+  "generated": "2026-11-18T18:40:39Z"
 }
