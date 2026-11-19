@@ -138,7 +138,7 @@
       "type": "plugin",
       "description": "自動同步台灣彩券開獎號碼、一鍵匯入歷史資料、前台顯示最新開獎與基本統計，自動發文並產生開獎封面圖，文章內附號碼統計與選號工具。",
       "listed": true,
-      "latest": "1.2.3",
+      "latest": "1.2.4",
       "versions": [
         {
           "version": "1.2.2",
@@ -165,6 +165,19 @@
           "size": 227412,
           "download_url": "https://github.com/mrr1740/wp-updates/releases/download/tah-tw-lottery-v1.2.3/tah-tw-lottery-1.2.3.zip",
           "tag": "tah-tw-lottery-v1.2.3"
+        },
+        {
+          "version": "1.2.4",
+          "status": "active",
+          "released": 1795103630,
+          "notes": "",
+          "requires": "5.3",
+          "requires_php": "7.4",
+          "tested": "",
+          "sha256": "3f53d8d3793eebef188ee1b6b96d4d5440cc1694da6832df5319e900629e258a",
+          "size": 230231,
+          "download_url": "https://github.com/mrr1740/wp-updates/releases/download/tah-tw-lottery-v1.2.4/tah-tw-lottery-1.2.4.zip",
+          "tag": "tah-tw-lottery-v1.2.4"
         }
       ]
     },
@@ -634,5 +647,5 @@
       ]
     }
   ],
-  "generated": "2026-11-19T15:53:33Z"
+  "generated": "2026-11-19T15:53:50Z"
 }
